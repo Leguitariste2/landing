@@ -70,7 +70,7 @@ a:hover {
 
 #footer{
   font-weight: lighter;
-  text-align: center;
+  text-align: left;
   background-color: black;
   background-size: cover;
 }
@@ -88,8 +88,4 @@ margin-bottom: 0px }
 
 #footer a:hover {
   color: #FF715B;
-}
-
-#footer {
-  color: white;
 }
